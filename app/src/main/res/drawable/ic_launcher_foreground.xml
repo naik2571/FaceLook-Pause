@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Attention Eye Contour -->
+    <path
+        android:strokeColor="#FF007F"
+        android:strokeWidth="4.5"
+        android:pathData="M26,54 C38,34 70,34 82,54 C70,74 38,74 26,54 Z" />
+    <!-- Iris Circle -->
+    <path
+        android:fillColor="#7928CA"
+        android:pathData="M54,54m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+    <!-- Center Play/Pause Indicator -->
+    <path
+        android:fillColor="#00F5FF"
+        android:pathData="M48,46 h4 v16 h-4 z M56,46 h4 v16 h-4 z" />
+</vector>
