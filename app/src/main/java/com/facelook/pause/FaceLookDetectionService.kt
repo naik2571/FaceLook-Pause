@@ -124,7 +124,7 @@ class FaceLookDetectionService : LifecycleService() {
             bindCameraAnalysis()
         }
 
-        return START_STICKY
+        return START_NOT_STICKY
     }
 
     private fun startForegroundWithNotification() {
